@@ -1,0 +1,294 @@
+{
+    "equipos": [
+        {
+            "id": 1,
+            "Equipo": "Bolombia",
+            "PJ": 0,
+            "G": 0,
+            "E": 0,
+            "P": 0,
+            "GF": 0,
+            "GC": 0,
+            "DG": 0,
+            "Pts": 0,
+            "img": "http://flags.fmcdn.net/data/flags/w580/bo.png"
+        },
+        {
+            "id": 2,
+            "Equipo": "Brasil",
+            "PJ": 0,
+            "G": 0,
+            "E": 0,
+            "P": 0,
+            "GF": 0,
+            "GC": 0,
+            "DG": 0,
+            "Pts": 0,
+            "img": "http://flags.fmcdn.net/data/flags/w580/br.png"
+        },
+        {
+            "id": 3,
+            "Equipo": "Perú",
+            "PJ": 0,
+            "G": 0,
+            "E": 0,
+            "P": 0,
+            "GF": 0,
+            "GC": 0,
+            "DG": 0,
+            "Pts": 0,
+            "img": "http://flags.fmcdn.net/data/flags/w580/pe.png"
+        },
+        {
+            "id": 4,
+            "Equipo": "Venezuela",
+            "PJ": 0,
+            "G": 0,
+            "E": 0,
+            "P": 0,
+            "GF": 0,
+            "GC": 0,
+            "DG": 0,
+            "Pts": 0,
+            "img": "http://flags.fmcdn.net/data/flags/w580/ve.png"
+        },
+        {
+            "id": 5,
+            "Equipo": "Argentina",
+            "PJ": 0,
+            "G": 0,
+            "E": 0,
+            "P": 0,
+            "GF": 0,
+            "GC": 0,
+            "DG": 0,
+            "Pts": 0,
+            "img": "http://flags.fmcdn.net/data/flags/w580/ar.png"
+        },
+        {
+            "id": 6,
+            "Equipo": "Colombia",
+            "PJ": 0,
+            "G": 0,
+            "E": 0,
+            "P": 0,
+            "GF": 0,
+            "GC": 0,
+            "DG": 0,
+            "Pts": 0,
+            "img": "http://flags.fmcdn.net/data/flags/w580/co.png"
+        },
+        {
+            "id": 7,
+            "Equipo": "Paraguay",
+            "PJ": 0,
+            "G": 0,
+            "E": 0,
+            "P": 0,
+            "GF": 0,
+            "GC": 0,
+            "DG": 0,
+            "Pts": 0,
+            "img": "http://flags.fmcdn.net/data/flags/w580/py.png"
+        },
+        {
+            "id": 8,
+            "Equipo": "Catar",
+            "PJ": 0,
+            "G": 0,
+            "E": 0,
+            "P": 0,
+            "GF": 0,
+            "GC": 0,
+            "DG": 0,
+            "Pts": 0,
+            "img": "http://flags.fmcdn.net/data/flags/w580/qa.png"
+        },
+        {
+            "id": 9,
+            "Equipo": "Chile",
+            "PJ": 0,
+            "G": 0,
+            "E": 0,
+            "P": 0,
+            "GF": 0,
+            "GC": 0,
+            "DG": 0,
+            "Pts": 0,
+            "img": "http://flags.fmcdn.net/data/flags/w580/cl.png"
+        },
+        {
+            "id": 10,
+            "Equipo": "Ecuador",
+            "PJ": 0,
+            "G": 0,
+            "E": 0,
+            "P": 0,
+            "GF": 0,
+            "GC": 0,
+            "DG": 0,
+            "Pts": 0,
+            "img": "http://flags.fmcdn.net/data/flags/w580/ec.png"
+        },
+        {
+            "id": 11,
+            "Equipo": "Japón",
+            "PJ": 0,
+            "G": 0,
+            "E": 0,
+            "P": 0,
+            "GF": 0,
+            "GC": 0,
+            "DG": 0,
+            "Pts": 0,
+            "img": "http://flags.fmcdn.net/data/flags/w580/jp.png"
+        },
+        {
+            "id": 12,
+            "Equipo": "Uruguay",
+            "PJ": 0,
+            "G": 0,
+            "E": 0,
+            "P": 0,
+            "GF": 0,
+            "GC": 0,
+            "DG": 0,
+            "Pts": 0,
+            "img": "http://flags.fmcdn.net/data/flags/w580/uy.png"
+        }
+    ],
+    "jornadas": {
+        "primera": [
+            {
+                "e1":2,
+                "g1":0,
+                "e2":1,
+                "g2":0
+
+            },
+            {
+                "e1":4,
+                "g1":0,
+                "e2":3,
+                "g2":0
+
+            },
+            {
+                "e1":5,
+                "g1":0,
+                "e2":6,
+                "g2":0
+
+            },
+            {
+                "e1":7,
+                "g1":0,
+                "e2":8,
+                "g2":0
+
+            },
+            {
+                "e1":12,
+                "g1":0,
+                "e2":10,
+                "g2":0
+
+            },
+            {
+                "e1":9,
+                "g1":0,
+                "e2":11,
+                "g2":0
+
+            }   
+        ],
+        "segunda": [
+            {
+                "e1":1,
+                "g1":0,
+                "e2":3,
+                "g2":0
+
+            },
+            {
+                "e1":2,
+                "g1":0,
+                "e2":4,
+                "g2":0
+
+            },
+            {
+                "e1":6,
+                "g1":0,
+                "e2":8,
+                "g2":0
+
+            },
+            {
+                "e1":5,
+                "g1":0,
+                "e2":7,
+                "g2":0
+
+            },
+            {
+                "e1":12,
+                "g1":0,
+                "e2":11,
+                "g2":0
+
+            },
+            {
+                "e1":10,
+                "g1":0,
+                "e2":9,
+                "g2":0
+
+            }   
+        ],
+        "tercera": [
+            {
+                "e1":1,
+                "g1":0,
+                "e2":4,
+                "g2":0
+
+            },
+            {
+                "e1":3,
+                "g1":0,
+                "e2":2,
+                "g2":0
+
+            },
+            {
+                "e1":5,
+                "g1":0,
+                "e2":8,
+                "g2":0
+
+            },
+            {
+                "e1":6,
+                "g1":0,
+                "e2":7,
+                "g2":0
+
+            },
+            {
+                "e1":9,
+                "g1":0,
+                "e2":12,
+                "g2":0
+
+            },
+            {
+                "e1":10,
+                "g1":0,
+                "e2":11,
+                "g2":0
+
+            }   
+        ]
+    }
+}
