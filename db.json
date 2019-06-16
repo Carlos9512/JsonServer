@@ -75,7 +75,7 @@
     ],
     "partidos": [
         {
-            "idPartido": 1,
+            "id": 1,
             "idEquipo1": 2,
             "nombreEquipo1": "Brasil",
             "urlEquipo1":"http://flags.fmcdn.net/data/flags/w580/br.png",
@@ -89,7 +89,7 @@
             "estado":"Fin"
         },
         {
-            "idPartido": 2,
+            "id": 2,
             "idEquipo1": 4,
             "nombreEquipo1": "Venezuela",
             "urlEquipo1":"http://flags.fmcdn.net/data/flags/w580/ve.png",
@@ -103,7 +103,7 @@
             "estado":"Fin"
         },
         {
-            "idPartido": 3,
+            "id": 3,
             "idEquipo1": 5,
             "nombreEquipo1": "Argentina",
             "urlEquipo1":"http://flags.fmcdn.net/data/flags/w580/ar.png",
@@ -118,7 +118,7 @@
             
         },
         {
-            "idPartido": 4,
+            "id": 4,
             "idEquipo1": 7,
             "nombreEquipo1": "Paraguay",
             "urlEquipo1":"http://flags.fmcdn.net/data/flags/w580/py.png",
@@ -133,7 +133,7 @@
            
         },
         {
-            "idPartido": 5,
+            "id": 5,
             "idEquipo1": 12,
             "nombreEquipo1": "Uruguay",
             "urlEquipo1":"http://flags.fmcdn.net/data/flags/w580/uy.png",
@@ -147,7 +147,7 @@
             "estado":"Pendiente"
         },
         {
-            "idPartido": 6,
+            "id": 6,
             "idEquipo1": 9,
             "nombreEquipo1": "Chile",
             "urlEquipo1":"http://flags.fmcdn.net/data/flags/w580/cl.png",
@@ -161,7 +161,7 @@
             "estado":"Pendiente"
         },
         {
-            "idPartido": 7,
+            "id": 7,
             "idEquipo1": 1,
             "nombreEquipo1": "Bolivia",
             "urlEquipo1":"http://flags.fmcdn.net/data/flags/w580/bo.png",
@@ -175,7 +175,7 @@
             "estado":"Pendiente"
         },
         {
-            "idPartido": 8,
+            "id": 8,
             "idEquipo1": 2,
             "nombreEquipo1": "Brasil",
             "urlEquipo1":"http://flags.fmcdn.net/data/flags/w580/br.png",
@@ -189,7 +189,7 @@
             "estado":"Pendiente"
         },
         {
-            "idPartido": 9,
+            "id": 9,
             "idEquipo1": 6,
             "nombreEquipo1": "Colombia",
             "urlEquipo1":"http://flags.fmcdn.net/data/flags/w580/co.png",
@@ -203,7 +203,7 @@
             "estado":"Pendiente"
         },
         {
-            "idPartido": 10,
+            "id": 10,
             "idEquipo1": 5,
             "nombreEquipo1": "Argentina",
             "urlEquipo1":"http://flags.fmcdn.net/data/flags/w580/ar.png",
@@ -217,7 +217,7 @@
             "estado":"Pendiente"
         },
         {
-            "idPartido": 11,
+            "id": 11,
             "idEquipo1": 12,
             "nombreEquipo1": "Uruguay",
             "urlEquipo1":"http://flags.fmcdn.net/data/flags/w580/uy.png",
@@ -231,7 +231,7 @@
             "estado":"Pendiente"
         },
         {
-            "idPartido": 12,
+            "id": 12,
             "idEquipo1": 10,
             "nombreEquipo1": "Ecuador",
             "urlEquipo1":"http://flags.fmcdn.net/data/flags/w580/ec.png",
@@ -245,7 +245,7 @@
             "estado":"Pendiente"
         },
         {
-            "idPartido": 13,
+            "id": 13,
             "idEquipo1": 1,
             "nombreEquipo1": "Bolivia",
             "urlEquipo1":"http://flags.fmcdn.net/data/flags/w580/bo.png",
@@ -259,7 +259,7 @@
             "estado":"Pendiente"
         },
         {
-            "idPartido": 14,
+            "id": 14,
             "idEquipo1": 3,
             "nombreEquipo1": "Perú",
             "urlEquipo1":"http://flags.fmcdn.net/data/flags/w580/pe.png",
