@@ -3,73 +3,73 @@
         {
             "id": 1,
             "Equipo": "Bolivia",
-            "Puntos": "0 0 0 0 0 0 0 0",
+            "Puntos": "1 0 0 1 0 3 -3 0",
             "img": "bo.png"
         },
         {
             "id": 2,
             "Equipo": "Brasil",
-            "Puntos": "0 0 0 0 0 0 0 0",
+            "Puntos": "1 1 0 0 3 0 3 3",
             "img": "br.png"
         },
         {
             "id": 3,
             "Equipo": "Perú",
-            "Puntos": "0 0 0 0 0 0 0 0",
+            "Puntos": "1 0 1 0 0 0 0 1",
             "img": "pe.png"
         },
         {
             "id": 4,
             "Equipo": "Venezuela",
-            "Puntos": "0 0 0 0 0 0 0 0",
+            "Puntos": "1 0 1 0 0 0 0 1",
             "img": "ve.png"
         },
         {
             "id": 5,
             "Equipo": "Argentina",
-            "Puntos": "0 0 0 0 0 0 0 0",
+            "Puntos": "1 0 0 1 0 2 -2 0",
             "img": "ar.png"
         },
         {
             "id": 6,
             "Equipo": "Colombia",
-            "Puntos": "0 0 0 0 0 0 0 0",
+            "Puntos": "1 1 0 0 2 0 2 3",
             "img": "co.png"
         },
         {
             "id": 7,
             "Equipo": "Paraguay",
-            "Puntos": "0 0 0 0 0 0 0 0",
+            "Puntos": "1 0 1 0 2 2 0 1",
             "img": "py.png"
         },
         {
             "id": 8,
             "Equipo": "Catar",
-            "Puntos": "0 0 0 0 0 0 0 0",
+            "Puntos": "1 0 1 0 2 2 0 1",
             "img": "qa.png"
         },
         {
             "id": 9,
             "Equipo": "Chile",
-            "Puntos": "0 0 0 0 0 0 0 0",
+            "Puntos": "1 1 0 0 4 0 4 3",
             "img": "cl.png"
         },
         {
             "id": 10,
             "Equipo": "Ecuador",
-            "Puntos": "0 0 0 0 0 0 0 0",
+            "Puntos": "1 0 0 1 0 4 -4 0",
             "img": "ec.png"
         },
         {
             "id": 11,
             "Equipo": "Japón",
-            "Puntos": "0 0 0 0 0 0 0 0",
+            "Puntos": "1 0 0 1 0 4 -4 0",
             "img": "jp.png"
         },
         {
             "id": 12,
             "Equipo": "Uruguay",
-            "Puntos": "0 0 0 0 0 0 0 0",
+            "Puntos": "1 1 0 0 4 0 4 3",
             "img": "uy.png"
         }
     ],
@@ -111,7 +111,7 @@
             "idEquipo2": 6,
             "nombreEquipo2": "Colombia",
             "urlEquipo2":"co.png",
-            "golesEquipo2": "0",
+            "golesEquipo2": "2",
             "fecha":"15 de Junio - 5:00 PM",
             "estadio":"Arena Fonte Nova",
             "estado":"Terminado"
@@ -122,14 +122,14 @@
             "idEquipo1": 7,
             "nombreEquipo1": "Paraguay",
             "urlEquipo1":"py.png",
-            "golesEquipo1": "0",
+            "golesEquipo1": "2",
             "idEquipo2": 8,
             "nombreEquipo2": "Catar",
             "urlEquipo2":"qa.png",
-            "golesEquipo2": "0",
+            "golesEquipo2": "2",
             "fecha":"16 de Junio - 2:00 PM",
             "estadio":"Maracaná",
-            "estado":"Pendiente"
+            "estado":"Terminado"
            
         },
         {
@@ -137,28 +137,28 @@
             "idEquipo1": 12,
             "nombreEquipo1": "Uruguay",
             "urlEquipo1":"uy.png",
-            "golesEquipo1":"0",
+            "golesEquipo1":"4",
             "idEquipo2": 10,
             "nombreEquipo2": "Ecuador",
             "urlEquipo2":"ec.png",
             "golesEquipo2": "0",
             "fecha":"16 de Junio - 5:00 PM",
             "estadio":"Mineirao",
-            "estado":"Pendiente"
+            "estado":"Terminado"
         },
         {
             "id": 6,
             "idEquipo1": 9,
             "nombreEquipo1": "Chile",
             "urlEquipo1":"cl.png",
-            "golesEquipo1": "0",
+            "golesEquipo1": "4",
             "idEquipo2": 11,
             "nombreEquipo2": "Japón",
             "urlEquipo2":"jp.png",
             "golesEquipo2": "0",
             "fecha":"17 de Junio - 6:00 PM",
             "estadio":"Morunbí",
-            "estado":"Pendiente"
+            "estado":"Terminado"
         },
         {
             "id": 7,
