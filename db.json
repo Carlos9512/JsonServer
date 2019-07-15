@@ -83,7 +83,7 @@
             "idEquipo2": 1,
             "nombreEquipo2": "Bolivia",
             "urlEquipo2":"bo.png",
-            "golesEquipo2": 0,
+            "golesEquipo2": "0",
             "fecha":"14 de Junio - 7:30 PM",
             "estadio":"Morumbí",
             "estado":"Terminado"
